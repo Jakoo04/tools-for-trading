@@ -1,6 +1,4 @@
 # tools-for-trading
-Trading : Technical analysis with python
-
 
 I have worked on tools for technical analysis in trading. Here is my work. You will find python code, to get price history, to find resistances and supports automaticaly, an original average to find the actual tendance... Their is also a Backtest exemple but the code is not perfect. You will have a little bit of work to do your owne backtest.
 
